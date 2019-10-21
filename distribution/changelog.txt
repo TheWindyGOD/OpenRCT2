@@ -1,6 +1,10 @@
 0.2.3+ (in development)
 ------------------------------------------------------------------------
 - Feature: [#9285] Remember current group in scenario list window.
+
+
+
+
 - Feature: [#9918] Increase image list capacity by about 100k units.
 - Change: [#1349] Increase the number of ride music played simultaneously from 2 to 32.
 - Fix: [#4927] Giant screenshot cut off at bottom and top.
